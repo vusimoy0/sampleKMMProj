@@ -8,4 +8,6 @@ The app uses the following tech stack:
 * SQLDelight as the chaching layer for both platforms
 * MVI Architecture. 
 
-The app was done as a part of a course on codingwithmitch.com. and is just a reference project for the next couple of KMM projects to get a feel for the tech. 
+On the iOS side of things, we use cocoapods to manage dependencies. On Android, Gradle. 
+
+The app was done as a part of a course on codingwithmitch.com and is just a reference project for the next couple of KMM projects to get a feel for the tech. 
